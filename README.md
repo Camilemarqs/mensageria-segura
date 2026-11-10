@@ -1,4 +1,4 @@
-# Mensageria Segura Multi-Cliente (Trabalho Prático 3)
+# Mensageria Segura Multi-Cliente (Trabalho Prático 2)
 
 Implementação em Java (JDK padrão, sem dependências externas) de mensageria ponta-a-ponta:
 handshake autenticado (RSA-PSS sobre certificado autoassinado), ECDHE (X25519) para sigilo
